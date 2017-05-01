@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Alex brush';
+    src: url('fonts/Alex brush) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p -{
+font-family: 'Alex brush'
+-}
